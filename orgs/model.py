@@ -12,9 +12,9 @@ class Orgs(object):
         tree_obj = objectpath.Tree(data)
         if keywords:
             result = tuple(tree_obj.execute(
-                "$.results[str({}) in @.orgName or str({}) in join(@.keywords)]".format(keywords, keywords)))
+                "$.orgs[str({}) in @.orgName or str({}) in join(@.keywords)]".format(keywords, keywords)))
         else:
-            result = tuple(tree_obj.execute("$.results.*"))
+            result = tuple(tree_obj.execute("$.orgs.*"))
 
         response.status = falcon.HTTP_200
-        response.body = json.dumps(result, ensure_ascii=False)
+        response.body = json.dumps({'results': result}, ensure_ascii=False)
