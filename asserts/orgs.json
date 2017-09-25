@@ -1,0 +1,587 @@
+{
+  "results": [
+    {
+      "TDID": "95580D31D2E62ABF38AF113796FE9077",
+      "apiUrl": "http://lms.eurasia.edu",
+      "area": "cn",
+      "casApi": "http://auth.eurasia.edu",
+      "createdAt": "2016-06-30T06:24:55.828Z",
+      "deliveryOrg": "OUYA",
+      "keywords": [
+        "eurasia",
+        "xianouyaxueyuan"
+      ],
+      "ntfUrl": "http://lms.eurasia.edu/ntf",
+      "objectId": "5774bb37a633bd002678010b",
+      "orgName": "西安欧亚学院",
+      "updatedAt": "2016-09-21T07:36:08.979Z"
+    },
+    {
+      "TDID": "D92E7860FFBB7E7AF947C0D6B7551F2D",
+      "apiUrl": "http://lms.bnu.edu.cn",
+      "area": "cn",
+      "casLoginUrl": "http://cas.bnu.edu.cn/cas/login",
+      "casLogoutUrl": "http://cas.bnu.edu.cn/cas/logout",
+      "casUrl": "http://cas.bnu.edu.cn",
+      "createdAt": "2016-06-30T06:24:55.930Z",
+      "deliveryOrg": "BNU",
+      "keywords": [
+        "BNU",
+        "beijingshifandaxue"
+      ],
+      "lrpApi": "http://lrp.bnu.edu.cn",
+      "ntfUrl": "http://lms.bnu.edu.cn/ntf",
+      "objectId": "5774bb37a633bd0026780115",
+      "orgName": "北京师范大学",
+      "updatedAt": "2017-09-01T08:22:40.981Z"
+    },
+    {
+      "TDID": "E1B45AE2384F494D1B95C082F5186E6F",
+      "apiUrl": "http://tronclass.com.tw",
+      "area": "tw",
+      "createdAt": "2016-07-08T09:38:51.032Z",
+      "deliveryOrg": "PCCU",
+      "keywords": [
+        "PCCU"
+      ],
+      "ntfUrl": "http://tronclass.com.tw/ntf",
+      "objectId": "577f74ab7db2a200246d18f3",
+      "orgName": "Chinese Culture University",
+      "updatedAt": "2016-09-21T07:29:21.679Z"
+    },
+    {
+      "TDID": "7D82C9A96480B9A7F1FEFD85C0A0E6D9",
+      "apiUrl": "http://www.ahmooc.cn",
+      "area": "cn",
+      "createdAt": "2016-06-30T06:24:55.889Z",
+      "deliveryOrg": "CHZU",
+      "keywords": [
+        "CHZU",
+        "chuzhouxueyuan"
+      ],
+      "ntfUrl": "http://www.ahmooc.cn/ntf",
+      "objectId": "5774bb37a633bd002678010f",
+      "orgName": "滁州学院",
+      "updatedAt": "2016-09-21T07:37:40.780Z"
+    },
+    {
+      "TDID": "E93BAE94D16E47639FAF7B07977AE5DA",
+      "apiUrl": "http://www.elearn2.fju.edu.tw",
+      "area": "tw",
+      "casApi": "http://cas.elearn2.fju.edu.tw",
+      "casLoginUrl": "http://cas.elearn2.fju.edu.tw/cas/login",
+      "casLogoutUrl": "http://cas.elearn2.fju.edu.tw/cas/logout",
+      "casUrl": "http://cas.elearn2.fju.edu.tw",
+      "createdAt": "2016-07-08T09:53:24.255Z",
+      "deliveryOrg": "FJU",
+      "keywords": [
+        "FJU"
+      ],
+      "ntfUrl": "http://www.elearn2.fju.edu.tw/ntf",
+      "objectId": "577f78147db2a200246d18f9",
+      "orgName": "Fu Jen Catholic University",
+      "updatedAt": "2017-09-14T04:00:21.333Z"
+    },
+    {
+      "TDID": "CC677A3C9718592733153627593E438B",
+      "apiUrl": "http://58.154.60.240",
+      "area": "cn",
+      "createdAt": "2016-06-30T06:24:55.903Z",
+      "deliveryOrg": "SYNU",
+      "keywords": [
+        "SYNU",
+        "shenyangshifandaxue"
+      ],
+      "ntfUrl": "http://58.154.60.240:8090",
+      "objectId": "5774bb37a633bd0026780111",
+      "orgName": "沈阳师范大学",
+      "updatedAt": "2016-09-21T07:38:01.800Z"
+    },
+    {
+      "TDID": "E93BAE94D16E47639FAF7B07977AE5DA",
+      "apiUrl": "http://www.elearn2.fju.edu.tw",
+      "area": "tw",
+      "casApi": "http://cas.elearn2.fju.edu.tw",
+      "casLoginUrl": "http://cas.elearn2.fju.edu.tw/cas/login",
+      "casLogoutUrl": "http://cas.elearn2.fju.edu.tw/cas/logout",
+      "casUrl": "http://cas.elearn2.fju.edu.tw",
+      "createdAt": "2016-07-08T09:53:24.238Z",
+      "deliveryOrg": "FJU",
+      "keywords": [
+        "天主教辅仁大学",
+        "tianzhujiaofurendaxue",
+        "辅大",
+        "輔大",
+        "fuda",
+        "FJU"
+      ],
+      "ntfUrl": "http://www.elearn2.fju.edu.tw/ntf",
+      "objectId": "577f78147db2a200246d18f8",
+      "orgName": "天主教輔仁大學",
+      "updatedAt": "2017-06-08T03:42:08.569Z"
+    },
+    {
+      "TDID": "825A1EC87B7932C84286777F12377044",
+      "apiUrl": "http://iclass.tku.edu.tw",
+      "area": "tw",
+      "casUrl": "",
+      "createdAt": "2016-07-04T02:05:00.201Z",
+      "deliveryOrg": "TKU",
+      "keywords": [
+        "淡江大学",
+        "淡大",
+        "TKU",
+        "danjiangdaxue"
+      ],
+      "ntfUrl": "http://iclass.tku.edu.tw/ntf",
+      "objectId": "5779c44ca633bd002679d643",
+      "orgName": "淡江大學",
+      "updatedAt": "2016-09-26T08:48:20.778Z"
+    },
+    {
+      "TDID": "E1B45AE2384F494D1B95C082F5186E6F",
+      "apiUrl": "http://tronclass.com.tw",
+      "area": "tw",
+      "createdAt": "2016-07-08T09:38:50.958Z",
+      "deliveryOrg": "PCCU",
+      "keywords": [
+        "中国文化大学",
+        "zhongguowenhuadaxue",
+        "文大",
+        "wenda",
+        "PCCU"
+      ],
+      "ntfUrl": "http://tronclass.com.tw/ntf",
+      "objectId": "577f74ab7db2a200246d18f2",
+      "orgName": "中國文化大學",
+      "updatedAt": "2016-09-21T07:29:23.847Z"
+    },
+    {
+      "TDID": "258CAE8829B1A0F16AE39BA968E889B6",
+      "apiUrl": "http://lms.sgjx.com.cn",
+      "area": "cn",
+      "createdAt": "2016-06-30T06:24:55.910Z",
+      "deliveryOrg": "SGJX",
+      "keywords": [
+        "SGJX",
+        "shougangjishixueyuan"
+      ],
+      "ntfUrl": "http://lms.sgjx.com.cn/ntf",
+      "objectId": "5774bb37a633bd0026780112",
+      "orgName": "首钢工学院",
+      "updatedAt": "2016-09-21T07:36:57.906Z"
+    },
+    {
+      "TDID": "8A46EBDAAF06BE2848EE68387006EBDA",
+      "apiUrl": "http://tronclass.ntou.edu.tw",
+      "area": "tw",
+      "casApi": "http://tccas.ntou.edu.tw",
+      "casLoginUrl": "http://tccas.ntou.edu.tw/cas/login",
+      "casLogoutUrl": "http://tccas.ntou.edu.tw/cas/logout",
+      "casUrl": "http://tccas.ntou.edu.tw",
+      "createdAt": "2016-07-04T02:05:00.282Z",
+      "deliveryOrg": "NTOU",
+      "keywords": [
+        "海洋大学",
+        "海大",
+        "NTOU",
+        "haiyangdaxue",
+        "haida"
+      ],
+      "ntfUrl": "http://tronclass.ntou.edu.tw/ntf",
+      "objectId": "5779c44ca633bd002679d649",
+      "orgName": "國立臺灣海洋大學",
+      "updatedAt": "2017-06-08T03:36:16.688Z"
+    },
+    {
+      "TDID": "258CAE8829B1A0F16AE39BA968E889B6",
+      "apiUrl": "http://lms.sgjx.com.cn",
+      "area": "cn",
+      "createdAt": "2016-06-30T06:24:55.917Z",
+      "deliveryOrg": "SGJX",
+      "keywords": [
+        "SGJX",
+        "shougangjishixueyuan"
+      ],
+      "ntfUrl": "http://lms.sgjx.com.cn/ntf",
+      "objectId": "5774bb37a633bd0026780113",
+      "orgName": "首钢技师学院",
+      "updatedAt": "2016-09-21T07:38:20.750Z"
+    },
+    {
+      "TDID": "8E08D8810751022BA4F436C702274AFD",
+      "apiUrl": "http://tronclass.mkc.edu.tw",
+      "area": "tw",
+      "casApi": "http://cas.mkc.edu.tw",
+      "casLoginUrl": "http://cas.mkc.edu.tw/cas/login",
+      "casLogoutUrl": "http://cas.mkc.edu.tw/cas/logout",
+      "casUrl": "http://cas.mkc.edu.tw",
+      "createdAt": "2016-07-04T02:05:00.224Z",
+      "deliveryOrg": "MKC",
+      "keywords": [
+        "马偕医护管理专科学校",
+        "馬偕護專",
+        "马偕护专",
+        "MKC",
+        "makaiyihuguanlizhuankexuexiao",
+        "kekaihuzhuan"
+      ],
+      "ntfUrl": "http://tronclass.mkc.edu.tw/ntf",
+      "objectId": "5779c44ca633bd002679d645",
+      "orgName": "馬偕學校財團法人馬偕醫護管理專科學校",
+      "updatedAt": "2017-05-24T02:27:53.695Z"
+    },
+    {
+      "TDID": "DE7B9C3830F3D553FB167FE2567DCCF0",
+      "apiUrl": "http://210.60.124.12",
+      "area": "tw",
+      "casApi": "http://210.60.124.14",
+      "createdAt": "2016-07-08T09:38:51.066Z",
+      "deliveryOrg": "NDMC",
+      "keywords": [
+        "国防医学院",
+        "guofangyixueyuan",
+        "NDMC"
+      ],
+      "ntfUrl": "http://210.60.124.12/ntf",
+      "objectId": "577f74ab7db2a200246d18f6",
+      "orgName": "國防醫學院",
+      "updatedAt": "2016-09-21T07:20:40.692Z"
+    },
+    {
+      "TDID": "8A46EBDAAF06BE2848EE68387006EBDA",
+      "apiUrl": "http://tronclass.ntou.edu.tw",
+      "area": "tw",
+      "casApi": "http://tccas.ntou.edu.tw",
+      "casLoginUrl": "http://tccas.ntou.edu.tw/cas/login",
+      "casLogoutUrl": "http://tccas.ntou.edu.tw/cas/logout",
+      "casUrl": "http://tccas.ntou.edu.tw",
+      "createdAt": "2016-07-04T02:05:00.289Z",
+      "deliveryOrg": "NTOU",
+      "keywords": [
+        "NTOU"
+      ],
+      "ntfUrl": "http://tronclass.ntou.edu.tw/ntf",
+      "objectId": "5779c44ca633bd002679d64a",
+      "orgName": "National Taiwan Ocean University",
+      "updatedAt": "2017-09-14T03:47:35.857Z"
+    },
+    {
+      "TDID": "D8594FBB798D505BBFBF17CA1E1EA36E",
+      "area": "tw",
+      "createdAt": "2016-07-04T02:05:00.295Z",
+      "deliveryOrg": "YM",
+      "keywords": [
+        "国立阳明大学",
+        "陽大",
+        "阳大",
+        "YM",
+        "guoliyangmingdaxue",
+        "yangda"
+      ],
+      "objectId": "5779c44ca633bd002679d64b",
+      "orgName": "國立陽明大學",
+      "updatedAt": "2016-09-21T07:36:30.602Z"
+    },
+    {
+      "TDID": "D8594FBB798D505BBFBF17CA1E1EA36E",
+      "area": "tw",
+      "createdAt": "2016-07-04T02:05:00.302Z",
+      "deliveryOrg": "YM",
+      "keywords": [
+        "YM"
+      ],
+      "objectId": "5779c44ca633bd002679d64c",
+      "orgName": "National Yang-Ming University",
+      "updatedAt": "2016-09-21T07:36:32.262Z"
+    },
+    {
+      "TDID": "D0F762026941CF26700D30A04BE4F2D7",
+      "apiUrl": "http://web.tronclass.kwnc.edu.mo",
+      "area": "mo",
+      "casApi": "http://web.tronclass.kwnc.edu.mo",
+      "createdAt": "2016-07-08T09:38:51.049Z",
+      "deliveryOrg": "KWNC",
+      "keywords": [
+        "澳门镜湖护理学院",
+        "aomenjinghuhulixueyuan",
+        "鏡湖學院",
+        "镜湖学院",
+        "jinghuxueyuan",
+        "KWNC"
+      ],
+      "ntfUrl": "http://web.tronclass.kwnc.edu.mo/ntf",
+      "objectId": "577f74ab7db2a200246d18f4",
+      "orgName": "澳門鏡湖護理學院",
+      "updatedAt": "2016-09-21T07:26:23.719Z"
+    },
+    {
+      "TDID": "825A1EC87B7932C84286777F12377044",
+      "apiUrl": "http://iclass.tku.edu.tw",
+      "area": "tw",
+      "casUrl": "",
+      "createdAt": "2016-07-04T02:05:00.217Z",
+      "deliveryOrg": "TKU",
+      "keywords": [
+        "TKU"
+      ],
+      "ntfUrl": "http://iclass.tku.edu.tw/ntf",
+      "objectId": "5779c44ca633bd002679d644",
+      "orgName": "Tamkang University",
+      "updatedAt": "2016-11-18T08:06:43.116Z"
+    },
+    {
+      "TDID": "8A6C1DFE75798311B4870FBB34AB8974",
+      "apiUrl": "http://class.xjtu.edu.cn",
+      "area": "cn",
+      "casLoginUrl": "https://cas.xjtu.edu.cn/cas/login",
+      "casLogoutUrl": "https://cas.xjtu.edu.cn/cas/logout",
+      "casUrl": "https://cas.xjtu.edu.cn",
+      "createdAt": "2016-06-30T06:24:55.873Z",
+      "deliveryOrg": "XJTU",
+      "keywords": [
+        "XJTU",
+        "xianjiaotongdaxue"
+      ],
+      "ntfUrl": "http://class.xjtu.edu.cn/ntf",
+      "objectId": "5774bb37a633bd002678010e",
+      "orgName": "西安交通大学",
+      "updatedAt": "2016-11-18T08:09:09.128Z"
+    },
+    {
+      "TDID": "DE7B9C3830F3D553FB167FE2567DCCF0",
+      "apiUrl": "http://210.60.124.12",
+      "area": "tw",
+      "casApi": "http://210.60.124.14",
+      "createdAt": "2016-07-08T09:38:51.079Z",
+      "deliveryOrg": "NDMC",
+      "keywords": [
+        "NDMC"
+      ],
+      "ntfUrl": "http://210.60.124.12/ntf",
+      "objectId": "577f74ab7db2a200246d18f7",
+      "orgName": "National Defense Medical Center",
+      "updatedAt": "2016-09-21T07:20:44.158Z"
+    },
+    {
+      "TDID": "F9D25DD3798E45EBBE7BCB95EACB13AE",
+      "apiUrl": "http://wlyx.21shte.net",
+      "area": "cn",
+      "casLoginUrl": "http://cas.edu.sh.cn/CAS/login",
+      "casLogoutUrl": "http://cas.edu.sh.cn/CAS/logout",
+      "casUrl": "http://cas.edu.sh.cn/CAS/logout",
+      "createdAt": "2016-11-16T10:37:06.120Z",
+      "deliveryOrg": "SHEDU",
+      "keywords": [
+        "shanghaijiaoruan"
+      ],
+      "ntfUrl": "http://wlyx.21shte.net/ntf",
+      "objectId": "582c36d2128fe100694da27a",
+      "orgName": "上海市师资培训中心",
+      "updatedAt": "2017-04-28T01:40:04.623Z"
+    },
+    {
+      "TDID": "D0F762026941CF26700D30A04BE4F2D7",
+      "apiUrl": "http://web.tronclass.kwnc.edu.mo",
+      "area": "mo",
+      "casApi": "http://web.tronclass.kwnc.edu.mo",
+      "createdAt": "2016-07-08T09:38:51.057Z",
+      "deliveryOrg": "KWNC",
+      "keywords": [
+        "KWNC"
+      ],
+      "ntfUrl": "http://web.tronclass.kwnc.edu.mo/ntf",
+      "objectId": "577f74ab7db2a200246d18f5",
+      "orgName": "Kiang Wu Nursing College of Macau",
+      "updatedAt": "2016-09-21T07:26:21.609Z"
+    },
+    {
+      "TDID": "459392D98E8E65254873CB896A460D57",
+      "apiUrl": "http://tronclass.hk.edu.tw",
+      "area": "tw",
+      "casApi": "http://trccas.hk.edu.tw",
+      "casLoginUrl": "http://trccas.hk.edu.tw/cas/login",
+      "casLogoutUrl": "http://trccas.hk.edu.tw/cas/logout",
+      "casUrl": "http://trccas.hk.edu.tw",
+      "createdAt": "2016-07-04T02:05:00.275Z",
+      "deliveryOrg": "HK",
+      "keywords": [
+        "HK"
+      ],
+      "ntfUrl": "http://tronclass.hk.edu.tw/ntf",
+      "objectId": "5779c44ca633bd002679d648",
+      "orgName": "Hungkuang University",
+      "updatedAt": "2017-09-14T04:06:32.046Z"
+    },
+    {
+      "apiUrl": "http://192.168.12.223:5000",
+      "area": "cn",
+      "createdAt": "2016-12-29T08:57:19.713Z",
+      "ntfUrl": "http://192.168.12.223:5000/ntf",
+      "objectId": "5864cfef570c3500695d03cc",
+      "orgName": "测试",
+      "updatedAt": "2017-09-19T05:56:45.738Z"
+    },
+    {
+      "TDID": "459392D98E8E65254873CB896A460D57",
+      "apiUrl": "http://tronclass.hk.edu.tw",
+      "area": "tw",
+      "casApi": "http://trccas.hk.edu.tw",
+      "casLoginUrl": "http://trccas.hk.edu.tw/cas/login",
+      "casLogoutUrl": "http://trccas.hk.edu.tw/cas/logout",
+      "casUrl": "http://trccas.hk.edu.tw",
+      "createdAt": "2016-07-04T02:05:00.256Z",
+      "deliveryOrg": "HK",
+      "keywords": [
+        "弘光科技大学",
+        "弘光科大",
+        "HK",
+        "hongguangkejidaxue",
+        "hongguangkeda"
+      ],
+      "ntfUrl": "http://tronclass.hk.edu.tw/ntf",
+      "objectId": "5779c44ca633bd002679d647",
+      "orgName": "弘光科技大學",
+      "updatedAt": "2017-06-08T03:38:39.460Z"
+    },
+    {
+      "TDID": "8E08D8810751022BA4F436C702274AFD",
+      "apiUrl": "http://tronclass.mkc.edu.tw",
+      "area": "tw",
+      "casApi": "http://cas.mkc.edu.tw",
+      "casLoginUrl": "http://cas.mkc.edu.tw/cas/login",
+      "casLogoutUrl": "http://cas.mkc.edu.tw/cas/logout",
+      "casUrl": "http://cas.mkc.edu.tw",
+      "createdAt": "2016-07-04T02:05:00.231Z",
+      "deliveryOrg": "MKC",
+      "keywords": [
+        "MKC"
+      ],
+      "ntfUrl": "http://tronclass.mkc.edu.tw/ntf",
+      "objectId": "5779c44ca633bd002679d646",
+      "orgName": "Mackay Junior College of Medicine, Nursing, and Management",
+      "updatedAt": "2017-05-24T02:27:36.503Z"
+    },
+    {
+      "apiUrl": "http://staging-lms.tronclass.com.tw",
+      "area": "tw",
+      "createdAt": "2017-06-21T07:57:51.409Z",
+      "deliveryOrg": "",
+      "keywords": [
+        "TronClass",
+        "School",
+        "示範"
+      ],
+      "ntfUrl": "http://staging-lms.tronclass.com.tw/ntf",
+      "objectId": "594a26ff5c497d006b0c5dad",
+      "orgName": "TronClass示範學校",
+      "updatedAt": "2017-06-21T08:06:58.293Z"
+    },
+    {
+      "TDID": "88ADE98DB7DA482BBDBC02010F6438B4",
+      "apiUrl": "http://tronclass.usc.edu.tw",
+      "area": "tw",
+      "casApi": "http://tccas.usc.edu.tw",
+      "casUrl": "http://tccas.usc.edu.tw",
+      "createdAt": "2017-08-03T04:43:38.093Z",
+      "deliveryOrg": "USC",
+      "keywords": [
+        "實踐大學",
+        "實踐",
+        "shijiandaxue"
+      ],
+      "ntfUrl": "http://tronclass.usc.edu.tw/ntf",
+      "objectId": "5982a9faac502e006918db46",
+      "orgName": "實踐大學",
+      "updatedAt": "2017-08-07T06:11:28.037Z"
+    },
+    {
+      "TDID": "005701F30D0D43A5B099478EC09E551E",
+      "apiUrl": "http://tronclass.cyut.edu.tw",
+      "area": "tw",
+      "casApi": "http://tccas.cyut.edu.tw",
+      "casUrl": "http://tccas.cyut.edu.tw",
+      "createdAt": "2017-08-03T04:50:52.318Z",
+      "deliveryOrg": "CYUT",
+      "keywords": [
+        "朝陽科技大學",
+        "朝陽",
+        "chaoyangkejidaxue"
+      ],
+      "ntfUrl": "http://tronclass.cyut.edu.tw/ntf",
+      "objectId": "5982abaca0bb9f005858e8de",
+      "orgName": "朝陽科技大學",
+      "updatedAt": "2017-08-07T06:10:55.893Z"
+    },
+    {
+      "TDID": "EE90D9998EA74C77ABFA0874D2181EE8",
+      "apiUrl": "http://tronclass.ypu.edu.tw",
+      "area": "tw",
+      "casApi": "http://cas.ypu.edu.tw",
+      "casUrl": "http://cas.ypu.edu.tw",
+      "createdAt": "2017-08-03T04:53:41.667Z",
+      "deliveryOrg": "YPU",
+      "keywords": [
+        "元培醫事科技大學",
+        "元培",
+        "yuanpeiyishikejidaxue"
+      ],
+      "ntfUrl": "http://tronclass.ypu.edu.tw/ntf",
+      "objectId": "5982ac55fe88c20057112ccf",
+      "orgName": "元培醫事科技大學",
+      "updatedAt": "2017-08-07T05:58:42.281Z"
+    },
+    {
+      "TDID": "9A62B9CAB310431A9F40572A448189D3",
+      "apiUrl": "http://ono.tp.edu.tw",
+      "area": "tw",
+      "createdAt": "2017-08-28T01:53:11.001Z",
+      "deliveryOrg": "DOE",
+      "keywords": [
+        "臺北市酷課學園網路學校",
+        "taibeishikukexueyuanwangluoxuexiao",
+        "cooc",
+        "酷課"
+      ],
+      "lrpApi": "",
+      "ntfUrl": "http://ono.tp.edu.tw/ntf",
+      "objectId": "59a377875c497d0065d209ea",
+      "orgName": "臺北市酷課學園網路學校",
+      "updatedAt": "2017-08-31T02:03:19.300Z"
+    },
+    {
+      "TDID": "C8086ABA95814AFBB5973F7FC989D6FE",
+      "apiUrl": "http://elearn.ntuspecs.ntu.edu.tw",
+      "area": "tw",
+      "casApi": "http://tccas.ntuspecs.ntu.edu.tw",
+      "casUrl": "http://tccas.ntuspecs.ntu.edu.tw",
+      "createdAt": "2017-09-05T03:29:27.822Z",
+      "deliveryOrg": "NTUSPECS",
+      "keywords": [
+        "NTUSPECS",
+        "台灣大學進修推廣學院",
+        "taiwandaxuejinxiutuiguangxueyuan"
+      ],
+      "ntfUrl": "http://elearn.ntuspecs.ntu.edu.tw/ntf",
+      "objectId": "59ae1a17a22b9d0064e34f0f",
+      "orgName": "台灣大學進修推廣學院",
+      "updatedAt": "2017-09-07T06:36:38.534Z"
+    },
+    {
+      "TDID": "BB9AD90A15A24F2FBD14505C4A4C01D8",
+      "apiUrl": "http://eclass.yuntech.edu.tw",
+      "area": "tw",
+      "createdAt": "2017-09-14T02:17:30.466Z",
+      "deliveryOrg": "YUNTECH",
+      "keywords": [
+        "YUNTECH",
+        "國立雲林科技大學",
+        "guoliyunlinkejidaxue"
+      ],
+      "ntfUrl": "http://eclass.yuntech.edu.tw/ntf",
+      "objectId": "59b9e6ba128fe1006ae978ba",
+      "orgName": "國立雲林科技大學",
+      "updatedAt": "2017-09-14T02:21:27.454Z"
+    }
+  ]
+}

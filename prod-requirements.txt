@@ -1,0 +1,5 @@
+falcon==1.3.0
+ujson==1.35
+gunicorn==19.7.1
+simplejson==3.10.0
+objectpath==0.5
